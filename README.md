@@ -1,4 +1,4 @@
-# ThemeImageViewDemo
+# ThemeImageView
 
 To get a Git project into your build:
 
@@ -15,6 +15,6 @@ allprojects {
 Step 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.chenyue404:ThemeImageViewDemo:Tag'
+	        implementation 'com.github.chenyue404:ThemeImageView:Tag'
 	}
 ```
