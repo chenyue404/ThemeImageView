@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThemeImageView">
+        <attr name="needTheme" format="boolean" />
+        <attr name="needThemeInNormal" format="boolean" />
+        <attr name="fixedColor" format="color" />
+        <attr name="selectColor" format="color" />
+    </declare-styleable>
+</resources>
