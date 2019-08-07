@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.cy.themeimageviewdemo"
+        applicationId "com.cy.themeimageview"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
@@ -21,5 +21,6 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.0.2'
 
-    implementation project(':themeimageview')
+    implementation 'com.github.chenyue404:ThemeImageViewDemo:1.0.2'
+//    implementation project(':themeimageview')
 }

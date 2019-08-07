@@ -1,9 +1,9 @@
-package com.cy.themeimageviewdemo;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.cy.themeimageview;
 
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 

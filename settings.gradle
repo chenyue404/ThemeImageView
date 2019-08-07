@@ -1,1 +1,1 @@
-include ':app', ':themeimageview'
+include ':app', ':library'
